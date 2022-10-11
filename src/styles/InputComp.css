@@ -1,0 +1,7 @@
+.inputCompStyle {
+  text-align: end;
+}
+
+.disableInput {
+  pointer-events: none;
+}
